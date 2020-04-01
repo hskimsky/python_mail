@@ -26,6 +26,12 @@ SENDER_EMAIL = sender@gmail.com
 SENDER_PASSWORD = abcdefghijklmnop
 ```
 
+## Limitations
+
+### Gmail
+
+1. 첨부파일의 용량은 하나에 25 MB 를 넘을 수 없음
+
 ## Execution
 
 ### Usage
